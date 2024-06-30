@@ -1,6 +1,6 @@
 # Description:
 
- Developed a dynamic and fully-respopnsive Food Delievery website using React.js and Tailwind CSS.
+ Developed a dynamic and fully-respopnsive Food Delivery website using React.js and Tailwind CSS.
  Employed React Router for efficient navigation between different pages of the application and leveraged React
  Hooks to manage state and lifecycle methods, ensuring a smooth and interactive user experience.
  Implemented Tailwind CSS for utility-first styling, ensuring a consistent and customizable design. Utilized Tailwind’s
