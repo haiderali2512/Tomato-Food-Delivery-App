@@ -35,7 +35,7 @@ const Cart = () => {
                     X
                   </p>
                 </div>
-                <hr />s
+                <hr />
               </div>
             );
           }
